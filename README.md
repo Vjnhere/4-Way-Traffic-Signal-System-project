@@ -22,4 +22,19 @@ All lights are initially set to red.
 - **Yellow Phase:** A brief warning yellow light precedes the red phase.
 - **Red Phase:** The green light turns off, and the red light is displayed for a specific direction while others may receive the green signal.
 
+## Additional Features
+The system includes pedestrian signals and left-turn indicators. Advanced systems use sensors for real-time traffic adaptation. Controllers can cycle through phases and offer manual control for special situations or emergencies.
+
+## Applications
+- Intersection Control
+- Pedestrian Safety
+- Left Turn Movements
+- Flashing Mode
+- Emergency Vehicle Preemption
+- School Zones
+- Railroad Crossings
+- Roundabouts
+
+## Conclusion
+In conclusion, 4-way traffic signals are integral to urban and suburban landscapes, managing vehicles and pedestrians with engineering precision and safety innovation. They signify our commitment to safer roads, orderly intersections, and reduced congestion.
 
